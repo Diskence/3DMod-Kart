@@ -1,3 +1,7 @@
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> origin/master
 Sand
 http://www.daz3d.com/forums/viewthread/23063/P60
 
@@ -17,4 +21,15 @@ ground:
 http://hhh316.deviantart.com/art/Dirt-Texture-84501552
 
 Gebäude:
+<<<<<<< HEAD
 http://www.wallpapertoon.info/tag/beige-textured-background
+=======
+http://www.wallpapertoon.info/tag/beige-textured-background
+=======
+Straße
+http://www.deviantart.com/art/Texture10-asphalt-67439625
+
+Sand
+http://www.textures123.com/free-texture/sand.html
+>>>>>>> origin/master
+>>>>>>> origin/master
